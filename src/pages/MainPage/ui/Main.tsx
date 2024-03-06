@@ -5,7 +5,7 @@ function Main() {
 
     return (
         <div>
-            <span>{t("Главная страница")}</span>
+            <span>{t('Главная страница')}</span>
         </div>
     );
 }
