@@ -1,4 +1,3 @@
-/* eslint-disable i18next/no-literal-string */
 import { classNames } from 'shared/lib/classNames/classNames';
 
 import { ThemeSwitcher } from 'shared/ui/ThemeSwitcher';
